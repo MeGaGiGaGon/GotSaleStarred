@@ -1,7 +1,7 @@
 ﻿{
 	"name": "GotSaleStarred",
 	"version_number": "1.0.0",
-	"website_url": "",
+	"website_url": "https://github.com/MeGaGiGaGon/GotSaleStarred",
 	"description": "Informs you (and the rest of the lobby) in chat when you waste a Sale Star. Server-side and configurable!",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2108",
